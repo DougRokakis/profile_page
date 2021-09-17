@@ -49,11 +49,6 @@ button{
     font-weight: bolder;
 }
 
-.main{
-    /* display:flex;
-    height: 1000px; */
-}
-
 .left-block{
     flex:2;
 }
